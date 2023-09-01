@@ -1,0 +1,1 @@
+Medium web sitesinin ana sayfasının klonu yapıldı.
